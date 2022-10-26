@@ -1,0 +1,159 @@
+@media (min-width: 279px) and (max-width: 319px){
+
+.header .navbar-nav .nav-item-1 .btn-success{
+
+      margin: 0px 0px 0px -5px;
+}
+  
+  .inner-banner p{
+    text-align: center;
+  }
+
+  .inner-banner h2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: center;
+  }
+
+  .inner-banner .btn-success{
+
+        margin: 0px 0px 0px 35px;
+  }
+
+  .feature .inner-img-1 img{
+   
+           margin: 0px 0px 0px 45px;
+
+  }
+
+  .feature .inner-img-1 p{
+
+    text-align: center;
+        
+  }
+
+  .feature .inner-img-2 img{
+
+  }
+  /*.w-100{
+    width: 100%!important;
+    height: 200px;
+  }*/
+
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+
+.inner-banner p{
+  text-align: center;
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+  .inner-banner p{
+
+  }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  .main-menu .navbar-nav .nav-item .nav-link{
+
+    margin: 0px;
+  }
+  
+   .top-header .info li a{ 
+     
+     font-size: 18px;
+     line-height: 28px;
+   }
+
+  .top-header .info{
+    text-align: center;
+  }
+
+  .top-header .social-icons{
+
+    text-align: center;
+  }
+
+  .slider .carousel .carousel-item .carousel-caption{
+    bottom: 22%;
+    display: block !important;
+  }
+  
+  .slider .carousel .carousel-item .carousel-caption h2{
+   
+    font-size: 26px;
+    line-height: 36px;
+
+  }
+  .slider .carousel .carousel-item .carousel-caption p{
+
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0px 0px 0px 5px;
+
+  }
+
+  .slider .carousel .carousel-item .carousel-caption .btn-success{
+
+    padding: 5px 10px;
+    font-size: 8px;
+    letter-spacing: 1px;
+  }
+
+.letest-work .card{
+   
+       margin: 10px 0px;
+
+}
+
+  .owl-carousel .owl-item img{
+     margin: 0px 18px;
+  }
+
+    .footer .wedget-section .wedget h4{
+
+    text-align: center;
+    font-size: 22px;
+    line-height: 32px;
+  }
+
+  .footer .wedget-section .wedget img{
+     
+     margin: 0px 0px 8px 275px;
+     width: 145px;
+
+  }
+
+  .footer .wedget-section .wedget p{
+    text-align: center;
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .footer .wedget-section .wedget .btn-link{
+    margin: 0px 290px;
+  }
+  .wedget ul li{
+    margin: 0px 0px 5px 272px;
+  }
+
+  .footer .main-footer .f-copy a{
+    margin: 0px 245px;
+  }
+
+  .footer .main-footer .f-nav{
+
+    margin: 0px 0px 0px -140px;
+  }
+
+ .navbar-toggler .fa-bars{
+    color: #506A85;
+  }
+
+  
+}
